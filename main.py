@@ -8,7 +8,7 @@ from kivy.uix.label import Label
 from kivy.uix.button import Button
 from kivy.core.window import Window
 
-runni=True
+
 class Grass(Image):
 	def __init__(self,**kwargs):
 		super().__init__(**kwargs)
